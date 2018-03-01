@@ -1,6 +1,6 @@
 # tnb-remote-control-plugin
 Plugin made for [TheNoobBot](http://thenoobbot.com/) - The first WoW Bot in the world compatible with WoW Legion.<br>
-It was meant to be used together with mobile app called [Remote Bot Control](https://github.com/drptbl/remotecontrol-app) - also made by me.<br>
+It was meant to be used together with mobile app called [BRCS - Bot Remote Control System](https://github.com/drptbl/remotecontrol-app) - also made by me.<br>
 Everything was planned to run under pay-by-month model (that's why you can see auth everywhere, etc).
 
 Currently it's main and only purpose is to:
