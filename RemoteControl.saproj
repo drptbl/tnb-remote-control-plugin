@@ -1,0 +1,18 @@
+<SmartAssemblyProject ProjectId="{b9c28b5e-1790-4d8d-9d84-4f1b30cf68ef}" Version="2.0">
+    <MainAssemblyFileName>..\..\Desktop\RemoteControl.dll</MainAssemblyFileName>
+    <Configuration Name="Release">
+        <Options>
+            <ExceptionReporting />
+            <FeatureUsageReporting />
+            <StringsEncoding />
+            <StrongNameSigning />
+            <Obfuscation FieldsNameMangling="2" NameMangling="3" />
+            <OtherProtections />
+            <OtherOptimizations />
+            <Debugging />
+        </Options>
+        <ApplicationName />
+        <Assemblies />
+        <Destination DestinationFileName="" />
+    </Configuration>
+</SmartAssemblyProject>
